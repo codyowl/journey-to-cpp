@@ -1,0 +1,43 @@
+#include <iostream>
+
+using namespace std;
+
+/* templates can be used to create generic function and class which can use any type of data to process operations.
+
+syntax : 
+     template <class T> => we can use "typename" instead of class
+     
+     T function_name(T argument1, T argument2) {
+          do some operations;
+     }
+
+ Note : In the above function we can pass any type of data that's the main purpose of templates, createing generic programs
+ 
+ */
+ 
+ template <class T>
+ 
+ T generic_addition(T number1, T number2){
+     
+     return number1 + number2;
+ }
+ 
+ // main function
+ 
+ int main() {
+     
+     //calling the function
+     
+     int integer1 = 10;
+     int integer2 = 20;
+     float float1 = 10.3;
+     float float2 = 20.4;
+     
+     //passing the arguments inside the same function
+     
+     cout << "The integer addition value is " << generic_addition(integer1, integer2) << endl;
+     
+     cout << "The float addition value is " << generic_addition(float1, float2);
+     
+     
+ }
