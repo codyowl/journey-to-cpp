@@ -13,6 +13,7 @@ My cpp progression for diving into unreal engine !
 ## Class:
   - [Introduction to class](https://github.com/codyowl/journey-to-cpp/blob/master/Class/class_introduction.cpp)
   - [Inheritance](https://github.com/codyowl/journey-to-cpp/blob/master/Class/inheritance.cpp)
+  - [Multiple inheritance](https://github.com/codyowl/journey-to-cpp/blob/master/Class/multiple_inheritance.cpp)
   - [sample class with calculator program](https://github.com/codyowl/journey-to-cpp/blob/master/Class/calculator_class.cpp)
   - [scope resolution operator introduction](https://github.com/codyowl/journey-to-cpp/blob/master/Class/scope_of_sesolution_operator_introduction.cpp)
   - [scope resolution operator function definition](https://github.com/codyowl/journey-to-cpp/blob/master/Class/scope_resolution_operator_defining_function_outside_class.cpp)
@@ -22,3 +23,4 @@ My cpp progression for diving into unreal engine !
 
 ## Compound types:
   - [Introduction to pointers](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/pointers_introduction.cpp)
+  - [Changing values in pointers](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/pointers_changing_value.cpp)
