@@ -20,6 +20,10 @@ My cpp progression for diving into unreal engine !
   
 ## Constructors:
   - [Introduction to constructors](https://github.com/codyowl/journey-to-cpp/blob/master/Constructors/constructor_introduction.cpp)
+  
+## Templates:
+  - [Introduction to templates](https://github.com/codyowl/journey-to-cpp/blob/master/Templates/introduction_to_templates)
+  - [Class based templates](https://github.com/codyowl/journey-to-cpp/blob/master/Templates/class_based_templates.cpp)
 
 ## Compound types:
   - [Introduction to pointers](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/pointers_introduction.cpp)
