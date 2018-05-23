@@ -27,6 +27,11 @@ My cpp progression for diving into unreal engine !
   - ### Arrays:
       - [Introduction](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/array_introduction.cpp)
       - [Initialization](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/array_initialization.cpp)
+      
+  - ### Structures:
+      - [Introduction](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/structures_introduction.cpp)
+      - [Assigning values to structures](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/structures_assigningvalues.cpp)
+      - [Arrays of structures](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/array_of_structures.cpp)
    
   - [Introduction to pointers](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/pointers_introduction.cpp)
   - [Changing values in pointers](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/pointers_changing_value.cpp)
