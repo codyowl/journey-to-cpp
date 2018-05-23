@@ -3,8 +3,6 @@ My cpp progression for diving into unreal engine !
 
 ## Datastructures:
   - [structures](https://github.com/codyowl/journey_to_cpp/blob/master/Datastructures/structures.cpp)
-  - [Array](https://github.com/codyowl/journey-to-cpp/blob/master/Datastructures/array.cpp)
-  - [Multidimensional array](https://github.com/codyowl/journey-to-cpp/blob/master/Datastructures/multi_dimensional_array.cpp)
   
 ## Functions:
   - [Introduction to functions](https://github.com/codyowl/journey-to-cpp/blob/master/Functions/function_introduction.cpp)
@@ -26,5 +24,9 @@ My cpp progression for diving into unreal engine !
   - [Class based templates](https://github.com/codyowl/journey-to-cpp/blob/master/Templates/class_based_templates.cpp)
 
 ## Compound types:
+  - ### Arrays:
+      - [Introduction] (https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/array_introduction.cpp)
+      - [Initialization] (https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/array_initialization.cpp)
+   
   - [Introduction to pointers](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/pointers_introduction.cpp)
   - [Changing values in pointers](https://github.com/codyowl/journey-to-cpp/blob/master/compoundtypes/pointers_changing_value.cpp)
